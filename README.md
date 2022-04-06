@@ -1,0 +1,1 @@
+This is a repo to practice data-structure, using TS. The main goal is to get familiar with basic forms of data structures and related oprations of them. 
